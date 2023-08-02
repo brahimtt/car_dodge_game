@@ -1,6 +1,6 @@
 # car_dodge_game
 
-![Car vs Traffic](https://i.ibb.co/mBMJJMR/Screenshot-from-2023-07-29-20-27-23.png))
+
 
 **Car dodge** is a simple arcade-style game developed in Python using the Pygame library. The objective of the game is to control your car and avoid collisions with incoming  cars on a six-lane road. The longer you survive without crashing, the higher your score will be!
 
@@ -23,8 +23,6 @@
 
 ## Screenshots
 
-![Image 1](https://i.ibb.co/w7ZZJjF/Screenshot-from-2023-07-29-20-02-50.png)
-![Image 2](https://i.ibb.co/cTmnBnS/Screenshot-from-2023-07-29-20-20-37.png)
 
 
 ## Installation

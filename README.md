@@ -1,5 +1,6 @@
 # car_dodge_game
-![Car dodge](https://ibb.co/s1v6k78)
+![car dodge](https://github.com/brahimtt/car_dodge_game/assets/18717288/9191e8b2-205a-41b6-9a98-c0182b8213eb)
+
 
 
 

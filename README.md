@@ -24,8 +24,9 @@
    - As you survive longer, the speed of the  incoming cars gradually increases, making the game more challenging.
 
 ## Screenshots
-![Image 1](https://www.iloveimg.com/download/cd6h7hdcq2ns307A2ksxw0z4c9cy6wfjbb2yyb6vc809kpxcwy0d0plrrsb4wdkz41ksfxwb844vycns8hA4t4Ayb8fsr0gth2bjfy3d6fmy2jxqk8mg0Ar649dyjn5z7995lvxcf40bc1vfd36h66fqAvg3zhfqyn3m27wk9z0gy7wt2mcq/1)
-![Image 2](https://www.iloveimg.com/download/gl54sm4Azt90yynvdkn69ww200Atk6wp6wfkdzltf8wnsxwjb1hbg7xc62A8ddpy6j7zztk4Acld73wn4jmznwst3pw8rmjrw0Alsmhw7s2g1h6pq0yt58n7jl2xqtfrz5A1n8svsmhsll9jyl85mst57533n991jhthyyvkhy4k16mfl651/7)
+![image1](https://github.com/brahimtt/car_dodge_game/assets/18717288/795e59ff-9c43-4c74-b1e9-73391c21a380)
+
+![image2](https://github.com/brahimtt/car_dodge_game/assets/18717288/be1b47e2-374a-43dd-bb1e-e21d3e45d60f)
 
 
 ## Installation
